@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="data_not_available_are_you_network_connection">Data not available.\nCheck you network connection.</string>
+    <string name="image_poster">Image Poster</string>
+
+    <string name="sort">Sort By</string>
+    <string name="popularity">Popularity</string>
+    <string name="top_rated">Top rated</string>
+    <string name="title">Title:</string>
+    <string name="plot_synopsis">Plot Synopsis:</string>
+    <string name="user_rating">User Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="missing_api_key">Missing the api key</string>
+    <string name="retry">Retry</string>
+
+</resources>
